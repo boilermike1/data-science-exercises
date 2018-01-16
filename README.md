@@ -1,2 +1,2 @@
 # data-science-exercises
-Exercises completed learning data science concepts
+As I complete coursework, I will post my projects in this repository.
